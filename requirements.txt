@@ -1,0 +1,6 @@
+streamlit==1.26.0
+pandas==2.1.0
+numpy==1.26.2
+ccxt==2.7.76
+plotly==5.20.0
+streamlit-autorefresh==0.0.3
